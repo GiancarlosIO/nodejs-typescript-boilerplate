@@ -5,7 +5,7 @@ dotenv.config();
 console.log('hello world', process.env['PORT']);
 
 const a = () => {
-	console.log('sdfsdf');
+  console.log('sdfsdf');
 };
 
 a();
